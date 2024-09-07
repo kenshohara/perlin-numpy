@@ -13,7 +13,7 @@ A fast and simple perlin noise generator using numpy.
 You can install this package via:
 
 ```
-pip3 install git+https://github.com/pvigier/perlin-numpy
+pip3 install git+https://github.com/kenshohara/perlin-numpy
 ```
 
 ## Usage
